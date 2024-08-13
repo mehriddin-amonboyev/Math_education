@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Dashboard</title>
+    <link rel="stylesheet" href="/public/styles/dashboard.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <h1>Math Dashboard</h1>
+        </div>
+        <div class="login">
+            <a href="/api/v1" class="login-btn">Login</a>
+        </div>
+    </header>
+    <div class="dashboard-container">
+        <aside class="sidebar">
+            <ul>
+                <li><a href="#home">🏠 Home</a></li>
+                <li><a href="#courses">📚 Courses</a></li>
+                <li><a href="#challenges">🧩 Challenges</a></li>
+                <li><a href="#blogs">✍ Blogs</a></li>
+            </ul>
+        </aside>
+        <main class="main-content">
+            <section id="home">
+                <h1>Welcome to the Math Dashboard</h1>
+                <p>This is your central hub for managing courses, challenges, and blogs.</p>
+            </section>
+            <section id="courses">
+                <h1>Your Courses</h1>
+                <p>Manage and view all your math courses here.</p>
+            </section>
+            <section id="challenges">
+                <h1>Challenges</h1>
+                <p>Engage with various math challenges.</p>
+            </section>
+            <section id="blogs">
+                <h1>Blogs</h1>
+                <p>Read and contribute to math-related blogs.</p>
+            </section>
+        </main>
+    </div>
+    <script src="/public/js/dashboard.js"></script>
+</body>
+</html>

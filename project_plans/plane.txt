@@ -1,0 +1,47 @@
+1  izlanish
+
+
+
+
+
+2 loyihalash
+
+kirish:
+    foydalanuvchilar ro'yxatdan o'tadi.
+        name, email, password.
+
+
+
+Kurs:
+
+
+matematik o'yinlar
+
+1.  2 4 8 16 .....
+
+2   tezkor hisob kitob 
+
+3   quiz.
+
+4   Orollar har bir orolda 10tadan testlar to'plami
+    Har bir test uchun ma'lum miqdorda bonuslar 
+    Orollar har biri alohida nomi mavjud va testlar orol nomi bilan moslashtiriladi
+
+
+musobaqalar ularda sovrinlar uchun:
+
+ 1- o'rin qizil ruchka:
+ 2- o'rin qora ruchka:
+ 3- o'rin ko'k ruchka:
+
+ online shopping tizimi mahsulotlar ruchka hisobida baholanadi.
+
+
+
+
+3 kodlash
+
+4 testlash
+
+5 yangilash
+

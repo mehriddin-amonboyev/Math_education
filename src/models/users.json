@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": null,
+        "email": null,
+        "password": null,
+        "phone": null
+    },
+    {
+        "id": 2,
+        "name": "Abduvali",
+        "email": "Abduvali@gmail.com",
+        "password": "Abduvali67-",
+        "phone": "+998934560408"
+        
+    }
+]
